@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1492376136 source:c:\users\bhanu\downloads\encryption.cpp
+	"encryption.h"
+
+1492294466 c:\users\bhanu\downloads\encryption.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+
+1492294460 source:c:\users\bhanu\downloads\mbxor.cpp
+	"MbXor.h"
+
+1492294464 c:\users\bhanu\downloads\mbxor.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
